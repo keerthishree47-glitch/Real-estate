@@ -13,11 +13,11 @@ Main areas looked at:
 8. Interactive tools and key performance indicators so that business decisions can be made quickly
 
 Tools and skills used:
-Power BI 
-Power Query 
-DAX  
-Excel 
-Data Cleaning 
-Data Modeling 
-Data Visualization 
-Business Analysis
+1. Power BI 
+2. Power Query 
+3. DAX  
+4. Excel 
+5. Data Cleaning 
+6. Data Modeling 
+7. Data Visualization 
+8. Business Analysis
